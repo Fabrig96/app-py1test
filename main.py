@@ -6,3 +6,8 @@ while (True):
     if cm==0:
         break
 #gg
+print("GGG")
+print("GGG")
+print("GGG")
+print("GGG")
+print("GGG")
